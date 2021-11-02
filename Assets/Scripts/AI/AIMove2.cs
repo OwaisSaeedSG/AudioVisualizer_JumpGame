@@ -17,7 +17,7 @@ public class AIMove2 : MonoBehaviour
     public float gravityScale = 2.5f;
     public static float globalGravity = -9.81f;
 
-    // Get restart level canvasd
+    // Get restart level canvas
     public Canvas restartCanvas;
     private bool playerDeadBool;
 
